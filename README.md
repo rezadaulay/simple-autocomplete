@@ -1,6 +1,6 @@
 # simple-autocomplete
 
-> Autocomplete With Local Array
+> Vue.Js Autocomplete With Local Array
 
 ## Build Setup
 
